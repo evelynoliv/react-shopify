@@ -1,5 +1,5 @@
 {
-  "name": "youtube-custom-app",
+  "name": "react-shopify",
   "version": "1.0.0",
   "main": "web/index.js",
   "license": "UNLICENSED",
@@ -15,5 +15,5 @@
     "@shopify/app": "3.36.1",
     "@shopify/cli": "3.36.1"
   },
-  "author": "danluck"
+  "author": "evelyn oliveira"
 }

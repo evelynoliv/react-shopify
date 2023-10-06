@@ -15,6 +15,13 @@ out/
 # production
 /build
 
+# Logs
+logs
+*.log
+
+# vite build output
+dist/
+
 # misc
 .DS_Store
 *.pem
